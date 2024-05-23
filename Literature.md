@@ -1,6 +1,6 @@
 # 量化寬鬆對於比特幣與黃金價格之影響的文獻脈絡
 
-1. **量化寬鬆政策對比特幣價格的影響**
+1. **量化寬鬆政策對比特幣報酬的影響**
    一項研究探討了美國量化寬鬆政策對2017-2023年比特幣價格的影響，使用了時間變異參數VAR（TVP-VAR）模型來分析其機制。研究發現，量化寬鬆政策對比特幣價格具有短期正面影響，並且通過流動性渠道對比特幣價格施加長期正面影響 [oai_citation:1,EconPapers: The effects of quantitative easing on Bitcoin prices](https://econpapers.repec.org/RePEc:eee:finlet:v:57:y:2023:i:c:s1544612323006049)。
 
 2. **量化寬鬆政策對加密貨幣市場的影響**
